@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @choidahey
+- 👋 Hi, I’m @choidahye
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Platformer game development using Unity
+- 🌱 I’m currently learning Platformer game development using Unreal
 - 📫 How to reach me choedahey2000@naver.com
 
 <!---
